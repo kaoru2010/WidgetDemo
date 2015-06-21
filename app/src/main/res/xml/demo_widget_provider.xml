@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
                     android:initialLayout="@layout/widget_layout"
-                    android:minHeight="146dp"
-                    android:minWidth="292dp"
+                    android:minHeight="72dp"
+                    android:minWidth="72dp"
                     android:previewImage="@drawable/widget"
-                    android:updatePeriodMillis="1000000" >
+                    android:updatePeriodMillis="0" >
+
+    <!--
+    http://y-anz-m.blogspot.jp/2011/06/androidappwidget.html
+    http://www.techfirm.co.jp/ap/ap_widget.html
+    こちらのページが参考になります
+    -->
+
 </appwidget-provider>
